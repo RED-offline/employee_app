@@ -8,15 +8,20 @@ environment:
 
 dependencies:
   bloc: ^8.1.1
+  cached_network_image: ^3.2.3
+  dio: ^5.0.2
   flutter:
     sdk: flutter
   flutter_bloc: ^8.1.2
   flutter_localizations:
     sdk: flutter
+  go_router: ^6.2.0
+  http: ^0.13.5
   intl: ^0.17.0
 
 dev_dependencies:
   bloc_test: ^9.1.1
+  build_runner: 
   flutter_test:
     sdk: flutter
   mocktail: ^0.3.0
